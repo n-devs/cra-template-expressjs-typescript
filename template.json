@@ -1,0 +1,41 @@
+{
+    "package": {
+        "dependencies": {
+            "cookie-parser": "^1.4.5",
+            "debug": "^4.3.1",
+            "errorhandler": "^1.5.1",
+            "express": "^4.17.1",
+            "http-errors": "^1.8.0",
+            "jade": "^1.11.0",
+            "morgan": "^1.10.0"
+        },
+        "devDependencies": {
+            "@types/chai": "^4.2.14",
+            "@types/concurrently": "^5.2.1",
+            "@types/cookie-parser": "^1.4.2",
+            "@types/debug": "^4.1.5",
+            "@types/errorhandler": "^1.5.0",
+            "@types/eslint": "^7.2.6",
+            "@types/express": "^4.17.9",
+            "@types/http-errors": "^1.8.0",
+            "@types/jade": "^0.0.30",
+            "@types/jest": "^26.0.19",
+            "@types/morgan": "^1.9.2",
+            "@types/node": "^14.14.19",
+            "@types/node-sass": "^4.11.1",
+            "@types/shelljs": "^0.8.8",
+            "@typescript-eslint/eslint-plugin": "^4.11.1",
+            "@typescript-eslint/parser": "^4.11.1",
+            "chai": "^4.2.0",
+            "concurrently": "^5.3.0",
+            "eslint": "^7.17.0",
+            "jest": "^26.6.3",
+            "node-sass": "^5.0.0",
+            "nodemon": "^2.0.6",
+            "shelljs": "^0.8.4",
+            "ts-jest": "^26.4.4",
+            "ts-node": "^9.1.1",
+            "typescript": "^4.1.3"
+        }
+    }
+}
